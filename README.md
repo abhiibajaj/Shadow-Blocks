@@ -108,6 +108,6 @@ When all target tiles that exist are covered by either stone or ice blocks, the 
 
 # Acknowledgement
 
-This game was designed by Eleanor McMurtry.
+The game specification was designed by Eleanor McMurtry.
 
 

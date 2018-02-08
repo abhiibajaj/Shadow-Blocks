@@ -105,6 +105,10 @@ There are six types of tiles in this game.
 
 When all target tiles that exist are covered by either stone or ice blocks, the current level is complete, and the next level is loaded.
 
+## Bugs
+
+The skeletons should not be able to push the blocks.
+
 
 # Acknowledgement
 
